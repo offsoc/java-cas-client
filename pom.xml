@@ -247,7 +247,7 @@
 
     <properties>
         <junit4.version>4.13.2</junit4.version>
-        <spring.version>6.2.3</spring.version>
+        <spring.version>6.2.7</spring.version>
         <ehcache.version>3.10.8</ehcache.version>
         <slf4j.version>2.0.16</slf4j.version>
         <jackson.version>2.18.2</jackson.version>
@@ -258,7 +258,7 @@
         <bouncycastle.version>1.80</bouncycastle.version>
         <springboot.version>3.4.3</springboot.version>
         <spring.security.version>6.4.3</spring.security.version>
-        <nimbus.jose.jwt.version>10.0.1</nimbus.jose.jwt.version>
+        <nimbus.jose.jwt.version>10.0.2</nimbus.jose.jwt.version>
         <maven.compiler.plugin.version>3.14.0</maven.compiler.plugin.version>
         <maven.enforcer.plugin.version>3.5.0</maven.enforcer.plugin.version>
         <maven.surefire.plugin.version>3.5.2</maven.surefire.plugin.version>
